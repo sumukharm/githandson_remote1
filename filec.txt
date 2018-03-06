@@ -1,2 +1,4 @@
 changing filec
  now
+
+modifying filec by master
