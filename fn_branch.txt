@@ -1,1 +1,1 @@
-touching new file fn_branch.txt
+touching new file fn_branch.txt, adding plain space text
