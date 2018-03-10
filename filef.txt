@@ -2,3 +2,4 @@ adding and changing
 adding and changing filef.txt
 
 after this one more change
+b6 adding a line
