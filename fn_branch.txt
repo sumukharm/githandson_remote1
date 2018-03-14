@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+touching new file fn_branch.txt, adding plain space text
+=======
+touching new file fn_branch.txt
+b3 adding a line
+>>>>>>> b3

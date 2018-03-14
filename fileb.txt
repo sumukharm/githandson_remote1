@@ -1,1 +1,7 @@
 modifying
+<<<<<<< HEAD
+
+master adding a line
+=======
+b8 adding a line
+>>>>>>> b8
